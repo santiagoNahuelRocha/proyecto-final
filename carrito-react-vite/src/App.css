@@ -1,0 +1,12 @@
+.half-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%;
+  }
+  #root{
+    min-height: 100vh;
+  }
+  .altura{
+    min-height: 100vh;
+  }
